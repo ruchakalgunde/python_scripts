@@ -2,7 +2,6 @@
 import requests
 import sys
 import argparse
-import os
 import subprocess as sp
 
 parser = argparse.ArgumentParser(description="Check json URL accessible tool")
